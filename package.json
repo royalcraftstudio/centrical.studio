@@ -1,0 +1,9 @@
+{
+    "name": "centrical-studio-figura-storage",
+    "version": "1.0",
+    "description": "Centrical Studio Figura Storage",
+    "dependencies": {
+        "express": "^4.15.2",
+        "socket.io": "^4.7.5"
+    }
+}
